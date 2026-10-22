@@ -136,11 +136,5 @@ would, and covers:
 - graceful shutdown finishing the in-flight job but not starting a new one
 - `list --json` producing pure, parseable JSON on stdout
 
-## Demo recording
+<img width="6731" height="7948" alt="image" src="https://github.com/user-attachments/assets/871cdd4a-5777-4c0a-a615-18c97f118c53" />
 
-_(link to be added before submission)_
-
-## Screenshots
-
-_(to be added before submission — not required for functionality, just
-for the README)_
